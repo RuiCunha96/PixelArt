@@ -10,7 +10,7 @@ import java.io.*;
 
 public class Grid implements ToDo {
 
-    String PATH = "/Users/codecadet/Desktop/Modulo1Java/projetos intelij/PixelArt/src/saveFile";
+    String PATH = "src/saveFile";
 
     public static int PIXEL_SIZE = 15;
     public static int PADDING = 10;
